@@ -1,0 +1,12 @@
+# Site settings
+title: Nishan Subedi
+email: nishansubedi@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+    Thanks for visiting my personal page. I am a technology enthusiast and love building tools.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://nishansubedi.github.com" # the base hostname & protocol for your site
+twitter_username: subedinishan
+github_username:  nishansubedi
+
+# Build settings
+markdown: kramdown
