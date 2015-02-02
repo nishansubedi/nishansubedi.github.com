@@ -11,4 +11,5 @@ talk:
     slideshare:
         url: http://www.slideshare.net/NishanSubedi1/marionette-meetupdec8
         embed_code: 42503268
+youtube: es4dgFDIgUE
 ---
